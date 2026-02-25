@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #ffffff;
+    background-color: #000000;
     font-family: 'Nunito', sans-serif;
     min-height: 100vh;
     display: flex;
@@ -42,7 +42,7 @@ body {
 .hearts-bg::after {
     animation-delay: 6s;
     left: 60%;
-    content: '💗 💕 💓 💖 💝';
+    content: '💗 💕';
 }
 
 @keyframes floatHearts {
