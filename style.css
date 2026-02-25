@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #000000;
+    background-color: #A60000;
     font-family: 'Nunito', sans-serif;
     min-height: 100vh;
     display: flex;
@@ -14,8 +14,8 @@ body {
     overflow: hidden;
     background-image:
         radial-gradient(circle at 15% 85%, #A60000 0%, transparent 40%),
-        radial-gradient(circle at 85% 15%, #ff8fa3 0%, transparent 40%),
-        radial-gradient(circle at 50% 50%, #fff0f3 0%, transparent 60%);
+        radial-gradient(circle at 85% 15%, #A60000 0%, transparent 40%),
+        radial-gradient(circle at 50% 50%, #A60000 0%, transparent 60%);
 }
 
 /* Floating hearts background */
